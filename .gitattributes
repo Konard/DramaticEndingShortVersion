@@ -1,0 +1,2 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.reason filter=lfs diff=lfs merge=lfs -text
